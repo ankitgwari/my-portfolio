@@ -50,7 +50,7 @@
 }
 .home__scroll-name {
   font-size: var(--small-font-size);
-  
+
   text-align: center;
 }
 
@@ -155,4 +155,9 @@
 .s11 {
   right: 10%;
   top: 2%;
+}
+@media screen and (max-width: 1024px) {
+  .home__social-link {
+    font-size: 1.125rem;
+  }
 }

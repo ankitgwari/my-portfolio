@@ -30,13 +30,13 @@ const Contact = () => {
               />
             </div>
           </div>
-            <div className="contact__form-div">
-              <input
-                type="text"
-                className="contact__form-input"
-                placeholder="Insert your subject"
-              />
-            </div>
+          <div className="contact__form-div">
+            <input
+              type="text"
+              className="contact__form-input"
+              placeholder="Insert your subject"
+            />
+          </div>
           <div className="contact__form-div contact__form-area">
             <textarea
               name=""
@@ -47,7 +47,10 @@ const Contact = () => {
               placeholder="Write your message"
             ></textarea>
           </div>
+          <center>
           <button className="btn">Send Message</button>
+
+          </center>
         </form>
       </div>
     </section>
