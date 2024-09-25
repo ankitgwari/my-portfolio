@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 const Shapes = () => {
   return (
-    <div className='shapes'>
-        <svg
+    <div className="shapes">
+      <svg
         width="27"
         height="29"
         className="shape s1"
@@ -160,7 +160,7 @@ const Shapes = () => {
         />
       </svg>
     </div>
-  )
-}
+  );
+};
 
-export default Shapes
+export default Shapes;

@@ -48,8 +48,7 @@ const Contact = () => {
             ></textarea>
           </div>
           <center>
-          <button className="btn">Send Message</button>
-
+            <button className="btn">Send Message</button>
           </center>
         </form>
       </div>
