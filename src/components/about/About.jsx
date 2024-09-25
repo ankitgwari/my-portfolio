@@ -19,7 +19,7 @@ const About = () => {
               software developer role to apply my skills in programming,
               software development, and teamwork.
             </p>
-            <a href="" className="btn">
+            <a href="#" className="btn">
               Download CV
             </a>
           </div>
