@@ -21,7 +21,7 @@ const Data = [
     category: "experience",
     icon: "icon-briefcase",
     year: "Oct 2024 - Present",
-    title: "Intern",
+    title: "Application Dev Intern",
     desc: "Optimus Information",
   },
 ];
