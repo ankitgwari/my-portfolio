@@ -10,21 +10,21 @@ const data = [
     image: Image1,
     title: "UI/UX design",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "UI (User Interface) and UX (User Experience) are essential components in product design, especially for digital platforms like websites, apps, and software.",
   },
   {
     id: 2,
     image: Image2,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "It brings together visual design and technical skills to create dynamic, responsive, and functional websites that serve various purposes on the internet.",
   },
   {
     id: 3,
     image: Image3,
     title: "Photography",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Photography as a passion is more than just taking pictures—it’s about capturing moments, emotions, and stories through the lens",
   },
 ];
 

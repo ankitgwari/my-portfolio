@@ -1,45 +1,51 @@
-import Work1 from "../../assets/work-1.svg";
-import Work2 from "../../assets/work-2.svg";
-import Work3 from "../../assets/work-3.svg";
-import Work4 from "../../assets/work-4.svg";
-import Work5 from "../../assets/work-5.svg";
-import Work6 from "../../assets/work-6.svg";
+import Work1 from "../../assets/work-1.png";
+import Work2 from "../../assets/work-2.jpeg";
+import Work3 from "../../assets/work-3.png";
+import Work4 from "../../assets/work-4.jpg";
+import Work5 from "../../assets/work-5.jpg";
+import Work6 from "../../assets/work-6.jpg";
 const Menu = [
   {
     id: 1,
     image: Work1,
-    title: "Project Management Illustration",
-    category: "Design",
+    title: "Dice Roll",
+    category: "Games",
+    link: "https://github.com/ankitgwari/js-dice-roll-simulator"
   },
   {
     id: 2,
     image: Work2,
-    title: "Guest App Walkthrough Screens",
-    category: "Art",
+    title: "Rock Paper Scissor",
+    category: "Games",
+    link: "https://github.com/ankitgwari/rock-paper-scissor"
   },
   {
     id: 3,
     image: Work3,
-    title: "Delivery App Wireframe",
-    category: "Branding",
+    title: "Tinder clone",
+    category: "Web App",
+    link: "https://github.com/ankitgwari/tinder-clone"
   },
   {
     id: 4,
     image: Work4,
-    title: "Onboarding Motivation",
-    category: "Design",
+    title: "E-commerce",
+    category: "Web App",
+    link: "https://github.com/ankitgwari/js-amazon-replica-01"
   },
   {
     id: 5,
     image: Work5,
-    title: "iMac Mockup Design",
-    category: "Creative",
+    title: "Hotel Booking",
+    category: "MERN stack",
+    link: "https://github.com/ankitgwari/Hotel-Booking-App"
   },
   {
     id: 6,
     image: Work6,
-    title: "Game Store App Concept",
-    category: "Art",
+    title: "Chatting App",
+    category: "MERN stack",
+    link: "https://github.com/ankitgwari/chat-app"
   },
 ];
 
